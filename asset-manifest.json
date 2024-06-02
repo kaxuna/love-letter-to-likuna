@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/love-letter-to-likuna/static/css/main.e6c13ad2.css",
+    "main.js": "/love-letter-to-likuna/static/js/main.a5fcf728.js",
+    "static/js/453.670a3b6c.chunk.js": "/love-letter-to-likuna/static/js/453.670a3b6c.chunk.js",
+    "static/media/cosmic.jpg": "/love-letter-to-likuna/static/media/cosmic.c497c04e071cb6d0b35b.jpg",
+    "static/media/clowns.jpg": "/love-letter-to-likuna/static/media/clowns.ea9a062d6a762182ad83.jpg",
+    "static/media/cats.jpg": "/love-letter-to-likuna/static/media/cats.d1bb4c8587e135b59aef.jpg",
+    "static/media/fingers.jpg": "/love-letter-to-likuna/static/media/fingers.45f3c5ec82f0fc7e7c99.jpg",
+    "static/media/hearts.jpg": "/love-letter-to-likuna/static/media/hearts.a80cfbb5ad86870c389b.jpg",
+    "index.html": "/love-letter-to-likuna/index.html",
+    "main.e6c13ad2.css.map": "/love-letter-to-likuna/static/css/main.e6c13ad2.css.map",
+    "main.a5fcf728.js.map": "/love-letter-to-likuna/static/js/main.a5fcf728.js.map",
+    "453.670a3b6c.chunk.js.map": "/love-letter-to-likuna/static/js/453.670a3b6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a5fcf728.js"
+  ]
+}
