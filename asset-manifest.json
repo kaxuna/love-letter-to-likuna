@@ -1,20 +1,33 @@
 {
   "files": {
     "main.css": "/love-letter-to-likuna/static/css/main.e6c13ad2.css",
-    "main.js": "/love-letter-to-likuna/static/js/main.a5fcf728.js",
+    "main.js": "/love-letter-to-likuna/static/js/main.e0d4fcff.js",
     "static/js/453.670a3b6c.chunk.js": "/love-letter-to-likuna/static/js/453.670a3b6c.chunk.js",
-    "static/media/cosmic.jpg": "/love-letter-to-likuna/static/media/cosmic.c497c04e071cb6d0b35b.jpg",
-    "static/media/clowns.jpg": "/love-letter-to-likuna/static/media/clowns.ea9a062d6a762182ad83.jpg",
-    "static/media/cats.jpg": "/love-letter-to-likuna/static/media/cats.d1bb4c8587e135b59aef.jpg",
-    "static/media/fingers.jpg": "/love-letter-to-likuna/static/media/fingers.45f3c5ec82f0fc7e7c99.jpg",
-    "static/media/hearts.jpg": "/love-letter-to-likuna/static/media/hearts.a80cfbb5ad86870c389b.jpg",
+    "static/media/5.jpeg": "/love-letter-to-likuna/static/media/5.e08b291b8448aa58d54c.jpeg",
+    "static/media/14.jpeg": "/love-letter-to-likuna/static/media/14.f8e43fdcd62a5d596869.jpeg",
+    "static/media/11.jpeg": "/love-letter-to-likuna/static/media/11.a740bcdca275b26d01f5.jpeg",
+    "static/media/13.jpeg": "/love-letter-to-likuna/static/media/13.3340df41941b2ae4e64f.jpeg",
+    "static/media/4.jpeg": "/love-letter-to-likuna/static/media/4.e52b9295b75feb4a42b8.jpeg",
+    "static/media/17.jpeg": "/love-letter-to-likuna/static/media/17.08144b918202cad280ad.jpeg",
+    "static/media/6.jpeg": "/love-letter-to-likuna/static/media/6.7942111c57a3f6c973fb.jpeg",
+    "static/media/1.jpeg": "/love-letter-to-likuna/static/media/1.65c4b56f4b41791dd1b4.jpeg",
+    "static/media/9.jpeg": "/love-letter-to-likuna/static/media/9.f93e2e7690b7116c9003.jpeg",
+    "static/media/12.jpeg": "/love-letter-to-likuna/static/media/12.70a356e22b3477006d93.jpeg",
+    "static/media/18.jpeg": "/love-letter-to-likuna/static/media/18.912dd27c2a03d20c74de.jpeg",
+    "static/media/15.jpeg": "/love-letter-to-likuna/static/media/15.37c8fdba47ab39b18f6b.jpeg",
+    "static/media/10.jpeg": "/love-letter-to-likuna/static/media/10.5d77418655ab0f7a1379.jpeg",
+    "static/media/7.jpeg": "/love-letter-to-likuna/static/media/7.c451e8c1f53d7c1f0d1a.jpeg",
+    "static/media/16.jpeg": "/love-letter-to-likuna/static/media/16.5ea463a4fbbdfd310ea1.jpeg",
+    "static/media/3.jpeg": "/love-letter-to-likuna/static/media/3.b3b94ae0f5e42258269b.jpeg",
+    "static/media/8.jpeg": "/love-letter-to-likuna/static/media/8.6dfce4ba385f8e0c945a.jpeg",
+    "static/media/2.jpeg": "/love-letter-to-likuna/static/media/2.0adf49c61e51cd2a81c8.jpeg",
     "index.html": "/love-letter-to-likuna/index.html",
     "main.e6c13ad2.css.map": "/love-letter-to-likuna/static/css/main.e6c13ad2.css.map",
-    "main.a5fcf728.js.map": "/love-letter-to-likuna/static/js/main.a5fcf728.js.map",
+    "main.e0d4fcff.js.map": "/love-letter-to-likuna/static/js/main.e0d4fcff.js.map",
     "453.670a3b6c.chunk.js.map": "/love-letter-to-likuna/static/js/453.670a3b6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a5fcf728.js"
+    "static/js/main.e0d4fcff.js"
   ]
 }
